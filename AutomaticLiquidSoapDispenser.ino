@@ -4,7 +4,7 @@ const int inputA1 = 10;
 const int inputA2 = 11;
 
 void setup() {
-  pinMode(IRsensor,INPUT);
+  pinMode(IRsensor, INPUT);
   pinMode(Enable_A, OUTPUT);
   pinMode(inputA1, OUTPUT);
   pinMode(inputA2, OUTPUT);
